@@ -23,7 +23,5 @@ Date Created:     October 21, 2017
          
 #### Note:
   The results of this search are also logged into a file named _CLsearch.txt
-  
-      _CLsearch.txt is created in the same directory as _CLsearch.exe
-      
-      _CLsearch.txt is OVERWRITTEN every time this application is executed
+      _CLsearch.txt is created in the same directory as _CLsearch.exe<br>
+      _CLsearch.txt is OVERWRITTEN every time this application is executed<br>
