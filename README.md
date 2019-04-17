@@ -1,4 +1,4 @@
-Created By:       Joshua Granger
+Created By:       Joshua Granger<br>
 Date Created:     October 21, 2017
 
 ### Instructions for use:
@@ -22,6 +22,6 @@ Date Created:     October 21, 2017
     FILE: 21BLSOL.CL    LINE: 78'''
          
 #### Note:
-  The results of this search are also logged into a file named _CLsearch.txt
-      _CLsearch.txt is created in the same directory as _CLsearch.exe<br>
-      _CLsearch.txt is OVERWRITTEN every time this application is executed<br>
+The results of this search are also logged into a file named _CLsearch.txt
+     _CLsearch.txt is created in the same directory as _CLsearch.exe<br>
+     _CLsearch.txt is OVERWRITTEN every time this application is executed<br>
