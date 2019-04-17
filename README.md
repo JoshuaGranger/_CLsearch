@@ -11,15 +11,15 @@ Date Created:     October 21, 2017
   C:\Users\Joshua\Desktop\CLDIRECTORY\_CLsearch.exe 20BLSOL 21BLSOL
   
 #### Example output:
-'''"20BLSOL"
-    FILE: 20BLSOL.CL    LINE: 8
-    FILE: 20BLSOL.CL    LINE: 60
-    FILE: 20BLSOL.CL    LINE: 78
-
-"21BLSOL"
-    FILE: 21BLSOL.CL    LINE: 8
-    FILE: 21BLSOL.CL    LINE: 60
-    FILE: 21BLSOL.CL    LINE: 78'''
+>"20BLSOL"
+>    FILE: 20BLSOL.CL    LINE: 8
+>    FILE: 20BLSOL.CL    LINE: 60
+>    FILE: 20BLSOL.CL    LINE: 78
+>
+>"21BLSOL"
+>    FILE: 21BLSOL.CL    LINE: 8
+>    FILE: 21BLSOL.CL    LINE: 60
+>    FILE: 21BLSOL.CL    LINE: 78'''
          
 #### Note:
 The results of this search are also logged into a file named _CLsearch.txt
