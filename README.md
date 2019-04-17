@@ -11,6 +11,7 @@ Example input:
   C:\Users\Joshua\Desktop\CLDIRECTORY\_CLsearch.exe 20BLSOL 21BLSOL
   
 Example output:
+  
   "20BLSOL"
   
       FILE: 20BLSOL.CL    LINE: 8
@@ -20,8 +21,11 @@ Example output:
       FILE: 20BLSOL.CL    LINE: 78
          
   "21BLSOL"
+      
       FILE: 21BLSOL.CL    LINE: 8
+      
       FILE: 21BLSOL.CL    LINE: 60
+      
       FILE: 21BLSOL.CL    LINE: 78
          
 Note:
