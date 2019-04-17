@@ -12,8 +12,11 @@ Example input:
   
 Example output:
   "20BLSOL"
+  
       FILE: 20BLSOL.CL    LINE: 8
+      
       FILE: 20BLSOL.CL    LINE: 60
+      
       FILE: 20BLSOL.CL    LINE: 78
          
   "21BLSOL"
